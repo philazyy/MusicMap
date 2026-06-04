@@ -1,0 +1,792 @@
+[LOG] 2026-06-04T19:07:04.478Z - =============================================
+[LOG] 2026-06-04T19:07:04.481Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:07:04.481Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:07:04.481Z - =============================================
+[LOG] 2026-06-04T19:07:05.354Z - Socket connected: nEMwyx2mXB15nTBPAAAB
+[LOG] 2026-06-04T19:07:30.504Z - =============================================
+[LOG] 2026-06-04T19:07:30.506Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:07:30.506Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:07:30.506Z - =============================================
+[LOG] 2026-06-04T19:07:31.363Z - Socket connected: PZjzDHDnfrg7o_qqAAAB
+[LOG] 2026-06-04T19:07:48.025Z - =============================================
+[LOG] 2026-06-04T19:07:48.026Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:07:48.026Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:07:48.027Z - =============================================
+[LOG] 2026-06-04T19:07:48.366Z - Socket connected: p-xuaxSVY7lvdJDyAAAB
+[LOG] 2026-06-04T19:08:05.142Z - Socket disconnected from server: p-xuaxSVY7lvdJDyAAAB
+[LOG] 2026-06-04T19:08:05.236Z - Socket connected: kUSXrc0048JwlrMHAAAE
+[LOG] 2026-06-04T19:08:08.819Z - Socket disconnected from server: kUSXrc0048JwlrMHAAAE
+[LOG] 2026-06-04T19:08:08.928Z - Socket connected: jg3wHDJY3FOVVEW5AAAH
+[LOG] 2026-06-04T19:08:19.923Z - Lobby H0ID22 created by host philazy (317mib6nkj5mj4vkxwvpyu7i4vzq)
+[LOG] 2026-06-04T19:08:21.589Z - Starting round for lobby H0ID22...
+[LOG] 2026-06-04T19:08:22.282Z - Round started in room H0ID22 with 20 tracks.
+[LOG] 2026-06-04T19:08:28.813Z - User 317mib6nkj5mj4vkxwvpyu7i4vzq disconnecting from lobby H0ID22
+[LOG] 2026-06-04T19:08:28.813Z - Socket disconnected from server: jg3wHDJY3FOVVEW5AAAH
+[LOG] 2026-06-04T19:08:28.834Z - Lobby H0ID22 has 0 users remaining. Deleting lobby.
+[LOG] 2026-06-04T19:08:46.698Z - =============================================
+[LOG] 2026-06-04T19:08:46.700Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:08:46.700Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:08:46.700Z - =============================================
+[LOG] 2026-06-04T19:09:01.786Z - Socket connected: 3aQooAzXrgk65e8NAAAB
+[LOG] 2026-06-04T19:09:01.790Z - Socket disconnected from server: 3aQooAzXrgk65e8NAAAB
+[LOG] 2026-06-04T19:09:01.910Z - Socket connected: 8AijHgTklCMh-1X0AAAE
+[LOG] 2026-06-04T19:09:03.211Z - Lobby MMKL77 created by host philazy (317mib6nkj5mj4vkxwvpyu7i4vzq)
+[LOG] 2026-06-04T19:09:04.518Z - Starting round for lobby MMKL77...
+[LOG] 2026-06-04T19:09:05.229Z - Round started in room MMKL77 with 20 tracks.
+[LOG] 2026-06-04T19:09:11.069Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: MMKL77, Track: 4242c2d1-5770-45cc-9a17-9de99a4c9df9, Swipe recorded. Total Swipes: 1/20, isFinished: false
+[LOG] 2026-06-04T19:10:50.908Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: MMKL77, Track: 54b4c392-59c1-4009-b589-c2b1f13f102b, Swipe recorded. Total Swipes: 2/20, isFinished: false
+[LOG] 2026-06-04T19:10:51.042Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: MMKL77, Track: 54b4c392-59c1-4009-b589-c2b1f13f102b, Swipe recorded. Total Swipes: 2/20, isFinished: false
+[LOG] 2026-06-04T19:10:51.218Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: MMKL77, Track: 517b1add-77ca-421e-9ce9-8ee05e172bde, Swipe recorded. Total Swipes: 3/20, isFinished: false
+[LOG] 2026-06-04T19:10:51.335Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: MMKL77, Track: 517b1add-77ca-421e-9ce9-8ee05e172bde, Swipe recorded. Total Swipes: 3/20, isFinished: false
+[LOG] 2026-06-04T19:10:51.504Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: MMKL77, Track: 0fd8addb-9a44-4863-a56f-f0c455f9e51d, Swipe recorded. Total Swipes: 4/20, isFinished: false
+[LOG] 2026-06-04T19:10:51.636Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: MMKL77, Track: 0fd8addb-9a44-4863-a56f-f0c455f9e51d, Swipe recorded. Total Swipes: 4/20, isFinished: false
+[LOG] 2026-06-04T19:10:51.927Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: MMKL77, Track: 6c47afe6-ef45-4eb7-b00b-05d451c74010, Swipe recorded. Total Swipes: 5/20, isFinished: false
+[LOG] 2026-06-04T19:10:52.032Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: MMKL77, Track: 6c47afe6-ef45-4eb7-b00b-05d451c74010, Swipe recorded. Total Swipes: 5/20, isFinished: false
+[LOG] 2026-06-04T19:10:52.484Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: MMKL77, Track: 5fc7ca5b-573a-4165-9893-f247cfd423ac, Swipe recorded. Total Swipes: 6/20, isFinished: false
+[LOG] 2026-06-04T19:10:52.625Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: MMKL77, Track: 5fc7ca5b-573a-4165-9893-f247cfd423ac, Swipe recorded. Total Swipes: 6/20, isFinished: false
+[LOG] 2026-06-04T19:10:52.855Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: MMKL77, Track: 5fa6a3d0-03df-4c61-a723-efae20847a02, Swipe recorded. Total Swipes: 7/20, isFinished: false
+[LOG] 2026-06-04T19:10:53.085Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: MMKL77, Track: 5fa6a3d0-03df-4c61-a723-efae20847a02, Swipe recorded. Total Swipes: 7/20, isFinished: false
+[LOG] 2026-06-04T19:10:53.267Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: MMKL77, Track: 6cabb56f-c0f5-4e5d-8a1b-82bd4d472075, Swipe recorded. Total Swipes: 8/20, isFinished: false
+[LOG] 2026-06-04T19:10:53.414Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: MMKL77, Track: 6cabb56f-c0f5-4e5d-8a1b-82bd4d472075, Swipe recorded. Total Swipes: 8/20, isFinished: false
+[LOG] 2026-06-04T19:10:53.595Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: MMKL77, Track: d3f4614c-7912-406c-83f1-17cc3d27228f, Swipe recorded. Total Swipes: 9/20, isFinished: false
+[LOG] 2026-06-04T19:10:53.716Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: MMKL77, Track: d3f4614c-7912-406c-83f1-17cc3d27228f, Swipe recorded. Total Swipes: 9/20, isFinished: false
+[LOG] 2026-06-04T19:10:53.890Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: MMKL77, Track: 02d28c48-80b7-465d-89f4-954f15cd5eb5, Swipe recorded. Total Swipes: 10/20, isFinished: false
+[LOG] 2026-06-04T19:10:54.021Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: MMKL77, Track: 02d28c48-80b7-465d-89f4-954f15cd5eb5, Swipe recorded. Total Swipes: 10/20, isFinished: false
+[LOG] 2026-06-04T19:10:54.208Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: MMKL77, Track: 4ee5ac37-4d71-4d20-aa6b-cf5532bb6bca, Swipe recorded. Total Swipes: 11/20, isFinished: false
+[LOG] 2026-06-04T19:11:01.519Z - User 317mib6nkj5mj4vkxwvpyu7i4vzq disconnecting from lobby MMKL77
+[LOG] 2026-06-04T19:11:01.520Z - Socket disconnected from server: 8AijHgTklCMh-1X0AAAE
+[LOG] 2026-06-04T19:11:01.544Z - Lobby MMKL77 has 0 users remaining. Deleting lobby.
+[LOG] 2026-06-04T19:11:01.682Z - Socket connected: NYCUUz1RpGd-1RhEAAAH
+[LOG] 2026-06-04T19:12:11.979Z - Socket disconnected from server: NYCUUz1RpGd-1RhEAAAH
+[LOG] 2026-06-04T19:12:12.096Z - Socket connected: fNDbq-aZoKCVxxTUAAAK
+[LOG] 2026-06-04T19:12:13.258Z - Socket disconnected from server: fNDbq-aZoKCVxxTUAAAK
+[LOG] 2026-06-04T19:12:13.352Z - Socket connected: HQOrR-P9T9CxOvv8AAAN
+[LOG] 2026-06-04T19:12:13.706Z - Socket disconnected from server: HQOrR-P9T9CxOvv8AAAN
+[LOG] 2026-06-04T19:12:13.802Z - Socket connected: awWl5kO7EDDc7hOXAAAQ
+[LOG] 2026-06-04T19:12:15.044Z - Lobby WLIEQS created by host philazy (317mib6nkj5mj4vkxwvpyu7i4vzq)
+[LOG] 2026-06-04T19:12:16.017Z - Starting round for lobby WLIEQS...
+[LOG] 2026-06-04T19:12:16.532Z - Round started in room WLIEQS with 20 tracks.
+[LOG] 2026-06-04T19:12:33.645Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 74746af2-c5b8-49ab-9c8e-6347d244d9d3, Swipe recorded. Total Swipes: 1/20, isFinished: false
+[LOG] 2026-06-04T19:12:34.116Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 7ddabe03-0bb2-40c1-a076-0378d73f03ff, Swipe recorded. Total Swipes: 2/20, isFinished: false
+[LOG] 2026-06-04T19:12:37.740Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: b7d3a45e-335d-429d-930b-101a033a11ed, Swipe recorded. Total Swipes: 3/20, isFinished: false
+[LOG] 2026-06-04T19:12:38.472Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 2f4acaa3-b82d-4b99-9bda-150933c5741c, Swipe recorded. Total Swipes: 4/20, isFinished: false
+[LOG] 2026-06-04T19:12:38.975Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 58532c6b-b98c-4f87-8de3-ba53e629cc54, Swipe recorded. Total Swipes: 5/20, isFinished: false
+[LOG] 2026-06-04T19:12:39.471Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 09dcd3fe-1437-47d9-9e68-9491807f2927, Swipe recorded. Total Swipes: 6/20, isFinished: false
+[LOG] 2026-06-04T19:12:40.733Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 96b36173-51ba-4e89-9f14-2dd958803cfa, Swipe recorded. Total Swipes: 7/20, isFinished: false
+[LOG] 2026-06-04T19:12:41.252Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: fb68a247-26b2-4528-a0d3-26b54a69feff, Swipe recorded. Total Swipes: 8/20, isFinished: false
+[LOG] 2026-06-04T19:12:41.619Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 322fda87-81bc-4aa5-aad6-0a95b487f9de, Swipe recorded. Total Swipes: 9/20, isFinished: false
+[LOG] 2026-06-04T19:12:42.143Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 9fba6e04-138e-48ae-ab62-59284245f82d, Swipe recorded. Total Swipes: 10/20, isFinished: false
+[LOG] 2026-06-04T19:12:45.660Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 39baac78-5e1f-4436-81fc-23f1958d56c4, Swipe recorded. Total Swipes: 11/20, isFinished: false
+[LOG] 2026-06-04T19:12:46.150Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 012daa0a-0118-48b3-aa57-939131c3c3a6, Swipe recorded. Total Swipes: 12/20, isFinished: false
+[LOG] 2026-06-04T19:12:46.633Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 076467a4-c554-484e-835f-703d4a66a4cf, Swipe recorded. Total Swipes: 13/20, isFinished: false
+[LOG] 2026-06-04T19:12:47.033Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 30bd0c16-79c2-428f-8cf8-1578461e9be6, Swipe recorded. Total Swipes: 14/20, isFinished: false
+[LOG] 2026-06-04T19:12:47.537Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 93685aa9-5769-4046-9ac4-57b379f03d6b, Swipe recorded. Total Swipes: 15/20, isFinished: false
+[LOG] 2026-06-04T19:12:48.046Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: e43dfeb9-7dde-4d06-b889-3e8e1dbd63fe, Swipe recorded. Total Swipes: 16/20, isFinished: false
+[LOG] 2026-06-04T19:12:48.589Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 660c0149-015d-41d6-ba56-4ca139946117, Swipe recorded. Total Swipes: 17/20, isFinished: false
+[LOG] 2026-06-04T19:12:49.132Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: ce98093b-2d00-432c-884d-5988e22b720b, Swipe recorded. Total Swipes: 18/20, isFinished: false
+[LOG] 2026-06-04T19:12:49.630Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: d18c1255-87e5-415a-978d-ea42ee70bf74, Swipe recorded. Total Swipes: 19/20, isFinished: false
+[LOG] 2026-06-04T19:12:50.165Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: e127fa54-3e5e-4253-b180-6426e284c584, Swipe recorded. Total Swipes: 20/20, isFinished: true
+[LOG] 2026-06-04T19:12:50.166Z - [SWIPE DEBUG] User 317mib6nkj5mj4vkxwvpyu7i4vzq has finished swiping. Updating DB...
+[LOG] 2026-06-04T19:12:50.191Z - All players finished swiping in lobby WLIEQS. Computing results...
+[LOG] 2026-06-04T19:12:50.329Z - Lobby WLIEQS reset for another round.
+[LOG] 2026-06-04T19:12:51.919Z - Starting round for lobby WLIEQS...
+[LOG] 2026-06-04T19:12:52.419Z - Round started in room WLIEQS with 20 tracks.
+[LOG] 2026-06-04T19:12:53.043Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: dbba8926-5d01-47df-b53a-af27e90c06ab, Swipe recorded. Total Swipes: 1/20, isFinished: false
+[LOG] 2026-06-04T19:12:53.532Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: a5b9165a-3658-4867-93c0-da00f7395290, Swipe recorded. Total Swipes: 2/20, isFinished: false
+[LOG] 2026-06-04T19:12:54.012Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 584b36eb-f1c8-4bc1-ae59-ea3d1d584e8a, Swipe recorded. Total Swipes: 3/20, isFinished: false
+[LOG] 2026-06-04T19:12:54.509Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 9e21f9ac-2f9f-4867-a521-9df26abec4da, Swipe recorded. Total Swipes: 4/20, isFinished: false
+[LOG] 2026-06-04T19:12:54.996Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: ab6e7c9f-45f7-4f5c-83d4-464a20b74a96, Swipe recorded. Total Swipes: 5/20, isFinished: false
+[LOG] 2026-06-04T19:12:55.479Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 39e76ced-962c-427b-9e4e-d58350b17ce6, Swipe recorded. Total Swipes: 6/20, isFinished: false
+[LOG] 2026-06-04T19:12:55.990Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 8af51e0c-647a-4149-b73d-af9058cc792f, Swipe recorded. Total Swipes: 7/20, isFinished: false
+[LOG] 2026-06-04T19:12:56.480Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 21eaa9f2-7cbc-4852-81d2-25bbe6139b28, Swipe recorded. Total Swipes: 8/20, isFinished: false
+[LOG] 2026-06-04T19:12:57.001Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 3c7c498d-caa7-4516-ab9b-8314f4c8e6d5, Swipe recorded. Total Swipes: 9/20, isFinished: false
+[LOG] 2026-06-04T19:12:57.494Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: b9879b76-905c-48b5-a34e-92f2d411a66e, Swipe recorded. Total Swipes: 10/20, isFinished: false
+[LOG] 2026-06-04T19:12:57.947Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 034cbade-9f6e-462a-b299-5edec9b0e3c4, Swipe recorded. Total Swipes: 11/20, isFinished: false
+[LOG] 2026-06-04T19:12:58.412Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 53316e04-d5be-46a7-bd36-4fb43b17172e, Swipe recorded. Total Swipes: 12/20, isFinished: false
+[LOG] 2026-06-04T19:12:58.944Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 83019a9e-51c6-4fe1-989b-9945a7999e4d, Swipe recorded. Total Swipes: 13/20, isFinished: false
+[LOG] 2026-06-04T19:12:59.458Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: c76c7d04-e998-45bf-a352-ff9714edd972, Swipe recorded. Total Swipes: 14/20, isFinished: false
+[LOG] 2026-06-04T19:12:59.975Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: c85c77f9-fe68-4f97-accf-ce28300bde4f, Swipe recorded. Total Swipes: 15/20, isFinished: false
+[LOG] 2026-06-04T19:13:00.489Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 1ad91b46-6031-4855-b7a9-1c1ba3b223be, Swipe recorded. Total Swipes: 16/20, isFinished: false
+[LOG] 2026-06-04T19:13:01.295Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 2c5e3b31-e243-4f63-9844-fe587b09cab9, Swipe recorded. Total Swipes: 17/20, isFinished: false
+[LOG] 2026-06-04T19:13:02.057Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 6354b8ce-ae8e-499a-8267-7449b183766e, Swipe recorded. Total Swipes: 18/20, isFinished: false
+[LOG] 2026-06-04T19:13:02.834Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 115cc32b-ea59-4853-a6fc-925693b8be76, Swipe recorded. Total Swipes: 19/20, isFinished: false
+[LOG] 2026-06-04T19:13:03.961Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: WLIEQS, Track: 1c1c9855-4ebe-4e61-ab9d-a2afb6987f5b, Swipe recorded. Total Swipes: 20/20, isFinished: true
+[LOG] 2026-06-04T19:13:03.961Z - [SWIPE DEBUG] User 317mib6nkj5mj4vkxwvpyu7i4vzq has finished swiping. Updating DB...
+[LOG] 2026-06-04T19:13:03.990Z - All players finished swiping in lobby WLIEQS. Computing results...
+[ERROR] 2026-06-04T19:13:08.694Z - Failed to create Spotify playlist: {"error":{"status":403,"message":"Forbidden"}}
+[LOG] 2026-06-04T19:13:47.367Z - =============================================
+[LOG] 2026-06-04T19:13:47.369Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:13:47.369Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:13:47.369Z - =============================================
+[LOG] 2026-06-04T19:13:48.377Z - Socket connected: yAAMHGBegS5joVEhAAAB
+[LOG] 2026-06-04T19:13:54.110Z - =============================================
+[LOG] 2026-06-04T19:13:54.112Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:13:54.112Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:13:54.112Z - =============================================
+[LOG] 2026-06-04T19:13:55.351Z - Socket connected: tmJevjCqpFrmudu5AAAB
+[LOG] 2026-06-04T19:14:07.109Z - Socket disconnected from server: tmJevjCqpFrmudu5AAAB
+[LOG] 2026-06-04T19:14:07.276Z - Socket connected: FDizTUnyT-Fomo6fAAAE
+[LOG] 2026-06-04T19:14:08.665Z - Lobby AFE239 created by host philazy (317mib6nkj5mj4vkxwvpyu7i4vzq)
+[LOG] 2026-06-04T19:14:09.556Z - Starting round for lobby AFE239...
+[LOG] 2026-06-04T19:14:11.124Z - Round started in room AFE239 with 20 tracks.
+[LOG] 2026-06-04T19:14:18.236Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: AFE239, Track: 1d0e8cb4-9cd6-410f-95b4-e68af7f4d5e6, Swipe recorded. Total Swipes: 1/20, isFinished: false
+[LOG] 2026-06-04T19:14:37.654Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: AFE239, Track: 1d5ea10e-1d06-4e87-aa30-3ba6d4553f49, Swipe recorded. Total Swipes: 2/20, isFinished: false
+[LOG] 2026-06-04T19:14:40.937Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: AFE239, Track: 6bfd57c6-e743-4723-b5c6-ee15b5fd3767, Swipe recorded. Total Swipes: 3/20, isFinished: false
+[LOG] 2026-06-04T19:14:45.633Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: AFE239, Track: 4f70d0ed-10bf-4b42-85db-9c93feb88c4b, Swipe recorded. Total Swipes: 4/20, isFinished: false
+[LOG] 2026-06-04T19:14:47.199Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: AFE239, Track: 4f542861-5c30-49f6-9e42-a12073394777, Swipe recorded. Total Swipes: 5/20, isFinished: false
+[LOG] 2026-06-04T19:14:55.124Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: AFE239, Track: 014c016b-d1a7-4b92-80bf-a38fd364e211, Swipe recorded. Total Swipes: 6/20, isFinished: false
+[LOG] 2026-06-04T19:18:48.965Z - =============================================
+[LOG] 2026-06-04T19:18:48.968Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:18:48.968Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:18:48.968Z - =============================================
+[LOG] 2026-06-04T19:18:49.434Z - Socket connected: hafKjJsUDO9-TxOKAAAB
+[LOG] 2026-06-04T19:25:16.249Z - =============================================
+[LOG] 2026-06-04T19:25:16.251Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:25:16.251Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:25:16.251Z - =============================================
+[LOG] 2026-06-04T19:25:17.362Z - Socket connected: hNSvMHedmJClO2i1AAAB
+[LOG] 2026-06-04T19:25:38.203Z - =============================================
+[LOG] 2026-06-04T19:25:38.205Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:25:38.205Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:25:38.205Z - =============================================
+[LOG] 2026-06-04T19:25:39.362Z - Socket connected: hhCu_j3X8If8cYEsAAAB
+[LOG] 2026-06-04T19:25:57.594Z - =============================================
+[LOG] 2026-06-04T19:25:57.596Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:25:57.596Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:25:57.596Z - =============================================
+[LOG] 2026-06-04T19:25:59.346Z - Socket connected: Nj82GGegJR2GAp5oAAAB
+[LOG] 2026-06-04T19:26:11.868Z - =============================================
+[LOG] 2026-06-04T19:26:11.871Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:26:11.871Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:26:11.871Z - =============================================
+[LOG] 2026-06-04T19:26:12.115Z - Socket connected: O_KqlhPiHimajT2ZAAAB
+[LOG] 2026-06-04T19:26:13.071Z - Lobby BKCDHM created by host philazy (317mib6nkj5mj4vkxwvpyu7i4vzq)
+[LOG] 2026-06-04T19:26:15.521Z - Starting round for lobby BKCDHM...
+[LOG] 2026-06-04T19:26:16.783Z - Round started in room BKCDHM with 20 tracks.
+[LOG] 2026-06-04T19:26:19.381Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: BKCDHM, Track: 0f062745-6056-4c04-acfd-585a102b4ccd, Swipe recorded. Total Swipes: 1/20, isFinished: false
+[LOG] 2026-06-04T19:26:22.762Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: BKCDHM, Track: 6b5a7da5-fa9e-4a6f-a3cb-94a78ed0844a, Swipe recorded. Total Swipes: 2/20, isFinished: false
+[LOG] 2026-06-04T19:26:24.631Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: BKCDHM, Track: 9d812276-b45e-4bb3-827d-73e4ad8c08ab, Swipe recorded. Total Swipes: 3/20, isFinished: false
+[LOG] 2026-06-04T19:26:27.066Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: BKCDHM, Track: 691bc880-3112-4f8d-82f0-926c4d48da3f, Swipe recorded. Total Swipes: 4/20, isFinished: false
+[LOG] 2026-06-04T19:26:28.078Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: BKCDHM, Track: cd88fb17-58ad-4cab-b495-86fb3154925b, Swipe recorded. Total Swipes: 5/20, isFinished: false
+[LOG] 2026-06-04T19:26:30.449Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: BKCDHM, Track: 418376d9-a503-4405-9723-e3e20ee13c34, Swipe recorded. Total Swipes: 6/20, isFinished: false
+[LOG] 2026-06-04T19:26:34.006Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: BKCDHM, Track: 8b630050-4495-4c71-a1db-113cac4c6050, Swipe recorded. Total Swipes: 7/20, isFinished: false
+[LOG] 2026-06-04T19:26:34.746Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: BKCDHM, Track: 5dd93580-8366-403d-9e64-3a564433da33, Swipe recorded. Total Swipes: 8/20, isFinished: false
+[LOG] 2026-06-04T19:26:35.605Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: BKCDHM, Track: cac95c50-0857-43c0-bf0f-4e3bbd14f528, Swipe recorded. Total Swipes: 9/20, isFinished: false
+[LOG] 2026-06-04T19:26:36.024Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: BKCDHM, Track: f2706be0-8124-4084-aabe-5cdfd23a8aa3, Swipe recorded. Total Swipes: 10/20, isFinished: false
+[LOG] 2026-06-04T19:26:37.382Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: BKCDHM, Track: d01afa7d-dc42-4e6a-86e9-e3dd36b6e656, Swipe recorded. Total Swipes: 11/20, isFinished: false
+[LOG] 2026-06-04T19:26:38.874Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: BKCDHM, Track: 13623c6e-dc91-4e4d-901c-b3cd07fc5740, Swipe recorded. Total Swipes: 12/20, isFinished: false
+[LOG] 2026-06-04T19:26:40.718Z - =============================================
+[LOG] 2026-06-04T19:26:40.720Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:26:40.720Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:26:40.720Z - =============================================
+[LOG] 2026-06-04T19:26:40.987Z - Socket connected: 53GIsLbymkHbFccMAAAB
+[LOG] 2026-06-04T19:26:41.020Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: BKCDHM, Track: fa5b80fc-c88e-4d63-98e0-f8730b342505, Swipe recorded. Total Swipes: 13/20, isFinished: false
+[LOG] 2026-06-04T19:26:42.043Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: BKCDHM, Track: d1ebe771-a1be-46dc-881e-4d6298968ced, Swipe recorded. Total Swipes: 14/20, isFinished: false
+[LOG] 2026-06-04T19:26:43.432Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: BKCDHM, Track: f36c4a9e-5f5f-4ff2-b327-5bab005e778e, Swipe recorded. Total Swipes: 15/20, isFinished: false
+[LOG] 2026-06-04T19:26:44.734Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: BKCDHM, Track: 389f7f78-c006-45eb-a76f-7ee65b680c2f, Swipe recorded. Total Swipes: 16/20, isFinished: false
+[LOG] 2026-06-04T19:26:46.163Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: BKCDHM, Track: 0bf3e312-457c-44f0-8355-27f7b9af8d47, Swipe recorded. Total Swipes: 17/20, isFinished: false
+[LOG] 2026-06-04T19:26:47.374Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: BKCDHM, Track: 453e089a-2366-42ee-84db-79bdf2d1f2ca, Swipe recorded. Total Swipes: 18/20, isFinished: false
+[LOG] 2026-06-04T19:26:48.461Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: BKCDHM, Track: e1598228-0df9-4a6e-bbbf-85f8e32945c4, Swipe recorded. Total Swipes: 19/20, isFinished: false
+[LOG] 2026-06-04T19:26:51.379Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: BKCDHM, Track: d6061f37-b3e4-4184-9870-53c12718284c, Swipe recorded. Total Swipes: 20/20, isFinished: true
+[LOG] 2026-06-04T19:26:51.380Z - [SWIPE DEBUG] User 317mib6nkj5mj4vkxwvpyu7i4vzq has finished swiping. Updating DB...
+[LOG] 2026-06-04T19:26:51.408Z - All players finished swiping in lobby BKCDHM. Computing results...
+[LOG] 2026-06-04T19:26:57.740Z - Socket disconnected from server: 53GIsLbymkHbFccMAAAB
+[LOG] 2026-06-04T19:26:57.869Z - Socket connected: J-UvV7LNlNlsYGO5AAAE
+[LOG] 2026-06-04T19:26:58.786Z - Socket disconnected from server: J-UvV7LNlNlsYGO5AAAE
+[LOG] 2026-06-04T19:26:58.892Z - Socket connected: Lq2CyWd-5S_GX7lMAAAH
+[LOG] 2026-06-04T19:27:00.372Z - Socket disconnected from server: Lq2CyWd-5S_GX7lMAAAH
+[LOG] 2026-06-04T19:27:00.473Z - Socket connected: XJH6QdP1MhijcPT0AAAK
+[LOG] 2026-06-04T19:27:02.946Z - Socket connected: 1P31oJiKP60bD9L2AAAN
+[LOG] 2026-06-04T19:27:03.823Z - Socket disconnected from server: XJH6QdP1MhijcPT0AAAK
+[LOG] 2026-06-04T19:27:03.825Z - Socket disconnected from server: 1P31oJiKP60bD9L2AAAN
+[LOG] 2026-06-04T19:31:13.300Z - =============================================
+[LOG] 2026-06-04T19:31:13.302Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:31:13.302Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:31:13.302Z - =============================================
+[LOG] 2026-06-04T19:31:24.007Z - Socket connected: syxcyDgLkVvFjDVCAAAC
+[LOG] 2026-06-04T19:31:26.469Z - Lobby PUETKK created by host philazy (317mib6nkj5mj4vkxwvpyu7i4vzq)
+[LOG] 2026-06-04T19:31:28.396Z - Lobby PUETKK playback mode set to: SPOTIFY_CONNECT
+[LOG] 2026-06-04T19:31:30.729Z - Starting round for lobby PUETKK...
+[LOG] 2026-06-04T19:31:32.743Z - Round started in room PUETKK with 20 tracks.
+[ERROR] 2026-06-04T19:31:34.689Z - [SPOTIFY CONNECT] Failed to play track for user 317mib6nkj5mj4vkxwvpyu7i4vzq: Request failed with status code 401
+[ERROR] 2026-06-04T19:31:36.226Z - [SPOTIFY CONNECT] Failed to play track for user 317mib6nkj5mj4vkxwvpyu7i4vzq: Request failed with status code 401
+[ERROR] 2026-06-04T19:31:48.607Z - [SPOTIFY CONNECT] Failed to play track for user 317mib6nkj5mj4vkxwvpyu7i4vzq: Request failed with status code 401
+[ERROR] 2026-06-04T19:31:49.750Z - [SPOTIFY CONNECT] Failed to play track for user 317mib6nkj5mj4vkxwvpyu7i4vzq: Request failed with status code 401
+[ERROR] 2026-06-04T19:31:50.412Z - [SPOTIFY CONNECT] Failed to play track for user 317mib6nkj5mj4vkxwvpyu7i4vzq: Request failed with status code 401
+[ERROR] 2026-06-04T19:31:50.661Z - [SPOTIFY CONNECT] Failed to play track for user 317mib6nkj5mj4vkxwvpyu7i4vzq: Request failed with status code 401
+[ERROR] 2026-06-04T19:31:56.474Z - [SPOTIFY CONNECT] Failed to play track for user 317mib6nkj5mj4vkxwvpyu7i4vzq: Request failed with status code 401
+[LOG] 2026-06-04T19:31:58.213Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: PUETKK, Track: 00e4a1b9-7878-42ed-94f9-b5fbb4161e6d, Swipe recorded. Total Swipes: 1/20, isFinished: false
+[ERROR] 2026-06-04T19:32:00.183Z - [SPOTIFY CONNECT] Failed to play track for user 317mib6nkj5mj4vkxwvpyu7i4vzq: Request failed with status code 401
+[LOG] 2026-06-04T19:32:01.847Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: PUETKK, Track: 50bd8f7c-ada5-4412-a550-10beb1d9db78, Swipe recorded. Total Swipes: 2/20, isFinished: false
+[ERROR] 2026-06-04T19:32:03.783Z - [SPOTIFY CONNECT] Failed to play track for user 317mib6nkj5mj4vkxwvpyu7i4vzq: Request failed with status code 401
+[ERROR] 2026-06-04T19:32:05.626Z - [SPOTIFY CONNECT] Failed to play track for user 317mib6nkj5mj4vkxwvpyu7i4vzq: Request failed with status code 401
+[ERROR] 2026-06-04T19:32:14.546Z - [SPOTIFY CONNECT] Failed to play track for user 317mib6nkj5mj4vkxwvpyu7i4vzq: Request failed with status code 401
+[LOG] 2026-06-04T19:32:29.787Z - =============================================
+[LOG] 2026-06-04T19:32:29.793Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:32:29.793Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:32:29.793Z - =============================================
+[LOG] 2026-06-04T19:32:29.923Z - Socket connected: AMk1TcThh_OtcC4NAAAB
+[LOG] 2026-06-04T19:32:30.341Z - Socket connected: fq_86zaxuJTBkvLlAAAD
+[LOG] 2026-06-04T19:40:38.543Z - =============================================
+[LOG] 2026-06-04T19:40:38.544Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:40:38.545Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:40:38.545Z - =============================================
+[LOG] 2026-06-04T19:40:39.417Z - Socket connected: gSzcSsRKxO1Kptu_AAAB
+[LOG] 2026-06-04T19:40:39.424Z - Socket connected: UwL_HpPW4BXltCCQAAAD
+[LOG] 2026-06-04T19:40:49.364Z - =============================================
+[LOG] 2026-06-04T19:40:49.365Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:40:49.365Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:40:49.366Z - =============================================
+[LOG] 2026-06-04T19:40:50.359Z - Socket connected: Aof4PQgKr6l2HTbvAAAB
+[LOG] 2026-06-04T19:40:50.368Z - Socket connected: oawaLPIkI-RVOBR7AAAD
+[LOG] 2026-06-04T19:40:54.033Z - =============================================
+[LOG] 2026-06-04T19:40:54.034Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:40:54.034Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:40:54.034Z - =============================================
+[LOG] 2026-06-04T19:40:54.378Z - Socket connected: d0MCB95d-06VR9LRAAAB
+[LOG] 2026-06-04T19:40:55.432Z - Socket connected: jvZxv0Z0kN1rITrCAAAD
+[LOG] 2026-06-04T19:41:00.574Z - =============================================
+[LOG] 2026-06-04T19:41:00.575Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:41:00.575Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:41:00.575Z - =============================================
+[LOG] 2026-06-04T19:41:01.359Z - Socket connected: Uyi8CcYy__ZVjE9DAAAB
+[LOG] 2026-06-04T19:41:01.364Z - Socket connected: k5gbggkZF51Al_IHAAAD
+[LOG] 2026-06-04T19:41:07.236Z - =============================================
+[LOG] 2026-06-04T19:41:07.239Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:41:07.239Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:41:07.239Z - =============================================
+[LOG] 2026-06-04T19:41:07.367Z - Socket connected: 2SpCxloamE7A_v1KAAAB
+[LOG] 2026-06-04T19:41:08.345Z - Socket connected: 3TssRYUM_UZYTj8NAAAD
+[LOG] 2026-06-04T19:41:29.985Z - =============================================
+[LOG] 2026-06-04T19:41:29.988Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:41:29.988Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:41:29.989Z - =============================================
+[LOG] 2026-06-04T19:41:30.357Z - Socket connected: 79w0aoidNOETMqI3AAAB
+[LOG] 2026-06-04T19:41:31.348Z - Socket connected: 0_qpMTW9A1eH7GCpAAAD
+[LOG] 2026-06-04T19:41:37.115Z - =============================================
+[LOG] 2026-06-04T19:41:37.116Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:41:37.117Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:41:37.117Z - =============================================
+[LOG] 2026-06-04T19:41:38.361Z - Socket connected: av2huYyKfh3BzH_TAAAB
+[LOG] 2026-06-04T19:41:38.367Z - Socket connected: NzldJHfmNCQQZmxFAAAD
+[LOG] 2026-06-04T19:41:55.377Z - Socket connected: Gs1QX56n91Zr0R0NAAAG
+[LOG] 2026-06-04T19:42:01.334Z - Socket disconnected from server: Gs1QX56n91Zr0R0NAAAG
+[LOG] 2026-06-04T19:42:01.360Z - Socket connected: 5CuYGo9udBcf6KSNAAAI
+[LOG] 2026-06-04T19:42:08.475Z - Socket disconnected from server: 5CuYGo9udBcf6KSNAAAI
+[LOG] 2026-06-04T19:42:08.525Z - Socket connected: BPPNdXRcjPsbvA9iAAAK
+[LOG] 2026-06-04T19:43:35.469Z - Socket disconnected from server: NzldJHfmNCQQZmxFAAAD
+[LOG] 2026-06-04T19:43:35.473Z - Socket disconnected from server: BPPNdXRcjPsbvA9iAAAK
+[LOG] 2026-06-04T19:43:35.486Z - Socket disconnected from server: av2huYyKfh3BzH_TAAAB
+[LOG] 2026-06-04T19:43:35.816Z - Socket connected: fe7kRT-m6aYUcSufAAAN
+[LOG] 2026-06-04T19:43:37.284Z - Lobby JUNLPG created by host philazy (317mib6nkj5mj4vkxwvpyu7i4vzq)
+[ERROR] 2026-06-04T19:43:41.228Z - Error changing playback mode: 
+Invalid `prisma.lobby.update()` invocation in
+C:\musicmap\server\src\socket.js:172:42
+
+  169  */
+  170 socket.on('change_playback_mode', async ({ lobbyId, playbackMode }) => {
+  171   try {
+→ 172     const lobby = await prisma.lobby.update({
+            where: {
+              id: "JUNLPG"
+            },
+            data: {
+              playbackMode: "SPOTIFY",
+              ~~~~~~~~~~~~
+          ?   id?: String | StringFieldUpdateOperationsInput,
+          ?   status?: String | StringFieldUpdateOperationsInput,
+          ?   createdAt?: DateTime | DateTimeFieldUpdateOperationsInput,
+          ?   users?: UserUpdateManyWithoutLobbyNestedInput,
+          ?   tracks?: TrackUpdateManyWithoutLobbyNestedInput
+            }
+          })
+
+Unknown argument `playbackMode`. Available options are marked with ?.
+[ERROR] 2026-06-04T19:43:42.630Z - Error changing playback mode: 
+Invalid `prisma.lobby.update()` invocation in
+C:\musicmap\server\src\socket.js:172:42
+
+  169  */
+  170 socket.on('change_playback_mode', async ({ lobbyId, playbackMode }) => {
+  171   try {
+→ 172     const lobby = await prisma.lobby.update({
+            where: {
+              id: "JUNLPG"
+            },
+            data: {
+              playbackMode: "SPOTIFY",
+              ~~~~~~~~~~~~
+          ?   id?: String | StringFieldUpdateOperationsInput,
+          ?   status?: String | StringFieldUpdateOperationsInput,
+          ?   createdAt?: DateTime | DateTimeFieldUpdateOperationsInput,
+          ?   users?: UserUpdateManyWithoutLobbyNestedInput,
+          ?   tracks?: TrackUpdateManyWithoutLobbyNestedInput
+            }
+          })
+
+Unknown argument `playbackMode`. Available options are marked with ?.
+[ERROR] 2026-06-04T19:43:43.081Z - Error changing playback mode: 
+Invalid `prisma.lobby.update()` invocation in
+C:\musicmap\server\src\socket.js:172:42
+
+  169  */
+  170 socket.on('change_playback_mode', async ({ lobbyId, playbackMode }) => {
+  171   try {
+→ 172     const lobby = await prisma.lobby.update({
+            where: {
+              id: "JUNLPG"
+            },
+            data: {
+              playbackMode: "SPOTIFY",
+              ~~~~~~~~~~~~
+          ?   id?: String | StringFieldUpdateOperationsInput,
+          ?   status?: String | StringFieldUpdateOperationsInput,
+          ?   createdAt?: DateTime | DateTimeFieldUpdateOperationsInput,
+          ?   users?: UserUpdateManyWithoutLobbyNestedInput,
+          ?   tracks?: TrackUpdateManyWithoutLobbyNestedInput
+            }
+          })
+
+Unknown argument `playbackMode`. Available options are marked with ?.
+[ERROR] 2026-06-04T19:43:43.233Z - Error changing playback mode: 
+Invalid `prisma.lobby.update()` invocation in
+C:\musicmap\server\src\socket.js:172:42
+
+  169  */
+  170 socket.on('change_playback_mode', async ({ lobbyId, playbackMode }) => {
+  171   try {
+→ 172     const lobby = await prisma.lobby.update({
+            where: {
+              id: "JUNLPG"
+            },
+            data: {
+              playbackMode: "SPOTIFY",
+              ~~~~~~~~~~~~
+          ?   id?: String | StringFieldUpdateOperationsInput,
+          ?   status?: String | StringFieldUpdateOperationsInput,
+          ?   createdAt?: DateTime | DateTimeFieldUpdateOperationsInput,
+          ?   users?: UserUpdateManyWithoutLobbyNestedInput,
+          ?   tracks?: TrackUpdateManyWithoutLobbyNestedInput
+            }
+          })
+
+Unknown argument `playbackMode`. Available options are marked with ?.
+[ERROR] 2026-06-04T19:43:44.029Z - Error changing playback mode: 
+Invalid `prisma.lobby.update()` invocation in
+C:\musicmap\server\src\socket.js:172:42
+
+  169  */
+  170 socket.on('change_playback_mode', async ({ lobbyId, playbackMode }) => {
+  171   try {
+→ 172     const lobby = await prisma.lobby.update({
+            where: {
+              id: "JUNLPG"
+            },
+            data: {
+              playbackMode: "ITUNES",
+              ~~~~~~~~~~~~
+          ?   id?: String | StringFieldUpdateOperationsInput,
+          ?   status?: String | StringFieldUpdateOperationsInput,
+          ?   createdAt?: DateTime | DateTimeFieldUpdateOperationsInput,
+          ?   users?: UserUpdateManyWithoutLobbyNestedInput,
+          ?   tracks?: TrackUpdateManyWithoutLobbyNestedInput
+            }
+          })
+
+Unknown argument `playbackMode`. Available options are marked with ?.
+[ERROR] 2026-06-04T19:43:44.795Z - Error changing playback mode: 
+Invalid `prisma.lobby.update()` invocation in
+C:\musicmap\server\src\socket.js:172:42
+
+  169  */
+  170 socket.on('change_playback_mode', async ({ lobbyId, playbackMode }) => {
+  171   try {
+→ 172     const lobby = await prisma.lobby.update({
+            where: {
+              id: "JUNLPG"
+            },
+            data: {
+              playbackMode: "SPOTIFY",
+              ~~~~~~~~~~~~
+          ?   id?: String | StringFieldUpdateOperationsInput,
+          ?   status?: String | StringFieldUpdateOperationsInput,
+          ?   createdAt?: DateTime | DateTimeFieldUpdateOperationsInput,
+          ?   users?: UserUpdateManyWithoutLobbyNestedInput,
+          ?   tracks?: TrackUpdateManyWithoutLobbyNestedInput
+            }
+          })
+
+Unknown argument `playbackMode`. Available options are marked with ?.
+[LOG] 2026-06-04T19:44:03.799Z - =============================================
+[LOG] 2026-06-04T19:44:03.800Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:44:03.800Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:44:03.800Z - =============================================
+[LOG] 2026-06-04T19:44:04.348Z - Socket connected: CoZzRWdmDdCv8i7AAAAB
+[LOG] 2026-06-04T19:44:06.641Z - Socket disconnected from server: CoZzRWdmDdCv8i7AAAAB
+[LOG] 2026-06-04T19:44:14.538Z - Socket connected: mWRBDy0ppoZU2hewAAAE
+[LOG] 2026-06-04T19:44:15.901Z - Lobby BPJADZ created by host philazy (317mib6nkj5mj4vkxwvpyu7i4vzq)
+[ERROR] 2026-06-04T19:44:16.740Z - Error changing playback mode: 
+Invalid `prisma.lobby.update()` invocation in
+C:\musicmap\server\src\socket.js:172:42
+
+  169  */
+  170 socket.on('change_playback_mode', async ({ lobbyId, playbackMode }) => {
+  171   try {
+→ 172     const lobby = await prisma.lobby.update({
+            where: {
+              id: "BPJADZ"
+            },
+            data: {
+              playbackMode: "SPOTIFY",
+              ~~~~~~~~~~~~
+          ?   id?: String | StringFieldUpdateOperationsInput,
+          ?   status?: String | StringFieldUpdateOperationsInput,
+          ?   createdAt?: DateTime | DateTimeFieldUpdateOperationsInput,
+          ?   users?: UserUpdateManyWithoutLobbyNestedInput,
+          ?   tracks?: TrackUpdateManyWithoutLobbyNestedInput
+            }
+          })
+
+Unknown argument `playbackMode`. Available options are marked with ?.
+[ERROR] 2026-06-04T19:44:17.354Z - Error changing playback mode: 
+Invalid `prisma.lobby.update()` invocation in
+C:\musicmap\server\src\socket.js:172:42
+
+  169  */
+  170 socket.on('change_playback_mode', async ({ lobbyId, playbackMode }) => {
+  171   try {
+→ 172     const lobby = await prisma.lobby.update({
+            where: {
+              id: "BPJADZ"
+            },
+            data: {
+              playbackMode: "SPOTIFY",
+              ~~~~~~~~~~~~
+          ?   id?: String | StringFieldUpdateOperationsInput,
+          ?   status?: String | StringFieldUpdateOperationsInput,
+          ?   createdAt?: DateTime | DateTimeFieldUpdateOperationsInput,
+          ?   users?: UserUpdateManyWithoutLobbyNestedInput,
+          ?   tracks?: TrackUpdateManyWithoutLobbyNestedInput
+            }
+          })
+
+Unknown argument `playbackMode`. Available options are marked with ?.
+[ERROR] 2026-06-04T19:44:22.142Z - Error changing playback mode: 
+Invalid `prisma.lobby.update()` invocation in
+C:\musicmap\server\src\socket.js:172:42
+
+  169  */
+  170 socket.on('change_playback_mode', async ({ lobbyId, playbackMode }) => {
+  171   try {
+→ 172     const lobby = await prisma.lobby.update({
+            where: {
+              id: "BPJADZ"
+            },
+            data: {
+              playbackMode: "SPOTIFY",
+              ~~~~~~~~~~~~
+          ?   id?: String | StringFieldUpdateOperationsInput,
+          ?   status?: String | StringFieldUpdateOperationsInput,
+          ?   createdAt?: DateTime | DateTimeFieldUpdateOperationsInput,
+          ?   users?: UserUpdateManyWithoutLobbyNestedInput,
+          ?   tracks?: TrackUpdateManyWithoutLobbyNestedInput
+            }
+          })
+
+Unknown argument `playbackMode`. Available options are marked with ?.
+[ERROR] 2026-06-04T19:44:22.932Z - Error changing playback mode: 
+Invalid `prisma.lobby.update()` invocation in
+C:\musicmap\server\src\socket.js:172:42
+
+  169  */
+  170 socket.on('change_playback_mode', async ({ lobbyId, playbackMode }) => {
+  171   try {
+→ 172     const lobby = await prisma.lobby.update({
+            where: {
+              id: "BPJADZ"
+            },
+            data: {
+              playbackMode: "SPOTIFY",
+              ~~~~~~~~~~~~
+          ?   id?: String | StringFieldUpdateOperationsInput,
+          ?   status?: String | StringFieldUpdateOperationsInput,
+          ?   createdAt?: DateTime | DateTimeFieldUpdateOperationsInput,
+          ?   users?: UserUpdateManyWithoutLobbyNestedInput,
+          ?   tracks?: TrackUpdateManyWithoutLobbyNestedInput
+            }
+          })
+
+Unknown argument `playbackMode`. Available options are marked with ?.
+[ERROR] 2026-06-04T19:44:23.613Z - Error changing playback mode: 
+Invalid `prisma.lobby.update()` invocation in
+C:\musicmap\server\src\socket.js:172:42
+
+  169  */
+  170 socket.on('change_playback_mode', async ({ lobbyId, playbackMode }) => {
+  171   try {
+→ 172     const lobby = await prisma.lobby.update({
+            where: {
+              id: "BPJADZ"
+            },
+            data: {
+              playbackMode: "SPOTIFY",
+              ~~~~~~~~~~~~
+          ?   id?: String | StringFieldUpdateOperationsInput,
+          ?   status?: String | StringFieldUpdateOperationsInput,
+          ?   createdAt?: DateTime | DateTimeFieldUpdateOperationsInput,
+          ?   users?: UserUpdateManyWithoutLobbyNestedInput,
+          ?   tracks?: TrackUpdateManyWithoutLobbyNestedInput
+            }
+          })
+
+Unknown argument `playbackMode`. Available options are marked with ?.
+[LOG] 2026-06-04T19:44:25.295Z - Starting round for lobby BPJADZ...
+[LOG] 2026-06-04T19:44:27.030Z - Round started in room BPJADZ with 20 tracks.
+[LOG] 2026-06-04T19:44:28.924Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: BPJADZ, Track: 84fc7bd5-3923-4a1a-b1f7-e2d4e7cdd9c8, Swipe recorded. Total Swipes: 1/20, isFinished: false
+[LOG] 2026-06-04T19:46:30.037Z - User 317mib6nkj5mj4vkxwvpyu7i4vzq disconnecting from lobby BPJADZ
+[LOG] 2026-06-04T19:46:30.038Z - Socket disconnected from server: mWRBDy0ppoZU2hewAAAE
+[LOG] 2026-06-04T19:46:30.080Z - Lobby BPJADZ has 0 users remaining. Deleting lobby.
+[LOG] 2026-06-04T19:46:31.919Z - Socket connected: Fx3ExlnhbUp6nfD3AAAH
+[LOG] 2026-06-04T19:46:34.794Z - Socket disconnected from server: Fx3ExlnhbUp6nfD3AAAH
+[ERROR] 2026-06-04T19:46:38.801Z - Error during Spotify OAuth callback processing: 
+Invalid `prisma.user.upsert()` invocation in
+C:\musicmap\server\src\routes\auth.js:43:36
+
+  40 
+  41 // 3. Upsert user in SQLite database
+  42 const tokenExpiresAt = new Date(Date.now() + expires_in * 1000);
+→ 43 const user = await prisma.user.upsert({
+       where: {
+         id: "317mib6nkj5mj4vkxwvpyu7i4vzq"
+       },
+       update: {
+         displayName: "philazy",
+         profileImage: "https://i.scdn.co/image/ab6775700000ee85acb698b71d39bd92785f3a7e",
+         product: "premium",
+         accessToken: "BQAOHiRjEIuQ2lNu-8VPccEIh_QM5Pmt3Arq2pXCMlIdsSrrapo8r74uGZkLGUxP5EkmKIGuruuO29SfEjiB2JCdYCyBtdEyM3L3wUaLd-uhJXyY-pcMVOOm0pIwaMjmdChvF0YwbGrfBEGNKSpyQiIfibYZu2zJ4kEsqUphWIi4CtUPoXeNpy-ePKROHYg1Lth65lZyodhIOOoWQIJP_ccgjlpWA4glPnsWa1mVmnWCGfpNnl1l1zrxuQnk8LS4tV-pRFaY_N593VRyIXr6NK-9nQwFXI3X4K-0uIj_c4IzKL26ejREt5618_nGhqIqHrD-3odG8q8",
+         refreshToken: "AQAOW9kVpqWPxKV821ZHxqAq1kXoDRhdjBdcIrA2ELXvpai0OI1BnaLZfsFwGFVPBqzTejY8dFI7tcdQmLh4Qs510Sc_niKUsP7LGqGB-7rVlx2FrpbjWyAMM39t5KvUF0g",
+         tokenExpiresAt: new Date("2026-06-04T20:46:38.795Z")
+       },
+       create: {
+         id: "317mib6nkj5mj4vkxwvpyu7i4vzq",
+         displayName: "philazy",
+         profileImage: "https://i.scdn.co/image/ab6775700000ee85acb698b71d39bd92785f3a7e",
+         product: "premium",
+         ~~~~~~~
+         accessToken: "BQAOHiRjEIuQ2lNu-8VPccEIh_QM5Pmt3Arq2pXCMlIdsSrrapo8r74uGZkLGUxP5EkmKIGuruuO29SfEjiB2JCdYCyBtdEyM3L3wUaLd-uhJXyY-pcMVOOm0pIwaMjmdChvF0YwbGrfBEGNKSpyQiIfibYZu2zJ4kEsqUphWIi4CtUPoXeNpy-ePKROHYg1Lth65lZyodhIOOoWQIJP_ccgjlpWA4glPnsWa1mVmnWCGfpNnl1l1zrxuQnk8LS4tV-pRFaY_N593VRyIXr6NK-9nQwFXI3X4K-0uIj_c4IzKL26ejREt5618_nGhqIqHrD-3odG8q8",
+         refreshToken: "AQAOW9kVpqWPxKV821ZHxqAq1kXoDRhdjBdcIrA2ELXvpai0OI1BnaLZfsFwGFVPBqzTejY8dFI7tcdQmLh4Qs510Sc_niKUsP7LGqGB-7rVlx2FrpbjWyAMM39t5KvUF0g",
+         tokenExpiresAt: new Date("2026-06-04T20:46:38.795Z"),
+     ?   role?: String,
+     ?   isFinished?: Boolean,
+     ?   lobby?: LobbyCreateNestedOneWithoutUsersInput,
+     ?   swipes?: SwipeCreateNestedManyWithoutUserInput
+       }
+     })
+
+Unknown argument `product`. Available options are marked with ?.
+[ERROR] 2026-06-04T19:46:42.051Z - Error during Spotify OAuth callback processing: 
+Invalid `prisma.user.upsert()` invocation in
+C:\musicmap\server\src\routes\auth.js:43:36
+
+  40 
+  41 // 3. Upsert user in SQLite database
+  42 const tokenExpiresAt = new Date(Date.now() + expires_in * 1000);
+→ 43 const user = await prisma.user.upsert({
+       where: {
+         id: "317mib6nkj5mj4vkxwvpyu7i4vzq"
+       },
+       update: {
+         displayName: "philazy",
+         profileImage: "https://i.scdn.co/image/ab6775700000ee85acb698b71d39bd92785f3a7e",
+         product: "premium",
+         accessToken: "BQDb0rX33Vtd05U6Hkb27RTILf7tFpSDeadRRFcrPnKmEH2wBBfbu918_nTkWvfjVMYfdmdFhg_TtWLWdtg2R-PVrajFhxzIlSOv_LoY1m1KM72HmQhL-JzdDRcU9QBRHrk1NnFNQNoLKA_UvIL-_j_t50HhogdBVNIRbBfSvqYn3VZHaomzn9g6auQiLvNhgiJkQvobpxtnmnJKbAHL5RyVxM_RdfOiObqAWkFYJRfCefg7oEKe5WoBVHtzNn3DDWSjKtfhSWxJcI0Pzx9hP1OMohF-PYb56yyjFQWQ7KQSv5T4lCljivnzcupCArrnmh8hszcZNF8",
+         refreshToken: "AQBeNBax3od633UtOiOOEk-Im1fiD2P6TZqZEMFyl8Xx-gnOky-1B62t_pikwr6T3uOwOIuEaOpgT42DTE3BqiUsUQuHTeRhl_QTAIBYPbTpiN65Sw4t27kB3WE6tmtbKxA",
+         tokenExpiresAt: new Date("2026-06-04T20:46:42.047Z")
+       },
+       create: {
+         id: "317mib6nkj5mj4vkxwvpyu7i4vzq",
+         displayName: "philazy",
+         profileImage: "https://i.scdn.co/image/ab6775700000ee85acb698b71d39bd92785f3a7e",
+         product: "premium",
+         ~~~~~~~
+         accessToken: "BQDb0rX33Vtd05U6Hkb27RTILf7tFpSDeadRRFcrPnKmEH2wBBfbu918_nTkWvfjVMYfdmdFhg_TtWLWdtg2R-PVrajFhxzIlSOv_LoY1m1KM72HmQhL-JzdDRcU9QBRHrk1NnFNQNoLKA_UvIL-_j_t50HhogdBVNIRbBfSvqYn3VZHaomzn9g6auQiLvNhgiJkQvobpxtnmnJKbAHL5RyVxM_RdfOiObqAWkFYJRfCefg7oEKe5WoBVHtzNn3DDWSjKtfhSWxJcI0Pzx9hP1OMohF-PYb56yyjFQWQ7KQSv5T4lCljivnzcupCArrnmh8hszcZNF8",
+         refreshToken: "AQBeNBax3od633UtOiOOEk-Im1fiD2P6TZqZEMFyl8Xx-gnOky-1B62t_pikwr6T3uOwOIuEaOpgT42DTE3BqiUsUQuHTeRhl_QTAIBYPbTpiN65Sw4t27kB3WE6tmtbKxA",
+         tokenExpiresAt: new Date("2026-06-04T20:46:42.047Z"),
+     ?   role?: String,
+     ?   isFinished?: Boolean,
+     ?   lobby?: LobbyCreateNestedOneWithoutUsersInput,
+     ?   swipes?: SwipeCreateNestedManyWithoutUserInput
+       }
+     })
+
+Unknown argument `product`. Available options are marked with ?.
+[ERROR] 2026-06-04T19:46:48.464Z - Error during Spotify OAuth callback processing: 
+Invalid `prisma.user.upsert()` invocation in
+C:\musicmap\server\src\routes\auth.js:43:36
+
+  40 
+  41 // 3. Upsert user in SQLite database
+  42 const tokenExpiresAt = new Date(Date.now() + expires_in * 1000);
+→ 43 const user = await prisma.user.upsert({
+       where: {
+         id: "317mib6nkj5mj4vkxwvpyu7i4vzq"
+       },
+       update: {
+         displayName: "philazy",
+         profileImage: "https://i.scdn.co/image/ab6775700000ee85acb698b71d39bd92785f3a7e",
+         product: "premium",
+         accessToken: "BQCVuJIYO-6wWbLRzd7U9M196znA1yMwksV6e5U7gaxEty7sH_QxUID3YjVDOEvLduRJPQdkUjFnXnqXnNDiWmAy27W2jNzsPIN44RCkTGkPR13eP6lhsKrKGouqDMT4tVpSRYl7-Z60QCHy3uZ1ZlS-w7dUOiEzjyXGcuI_ttgoWubnfPpAOU07QAPMUTXuKLKvFi8Y78sxIr54YI1k0HS3uYbPhOUFSAcJ3izw9Bzeea-qGcEx1vqgGVoGGiLpAXQNGRS2mKAK7UaPxFQajU8Ufa4GVfDRSQHbrSh0D1k5Imq5aFe2OB-d7LZ8dJ8iv0T6jKqcj7k",
+         refreshToken: "AQDlXHlChfu9IAdWqqkHx14SWULlpOOqvi-KqnbsoHq6bIWRkVZVvm1BFSpFkwQLNseyVZrPbN9Fg4kJUaYlLzgbkCz-bms5ZDEt-0PRbDUT1M4lOp_XplEGBCZBnEbg3vI",
+         tokenExpiresAt: new Date("2026-06-04T20:46:48.460Z")
+       },
+       create: {
+         id: "317mib6nkj5mj4vkxwvpyu7i4vzq",
+         displayName: "philazy",
+         profileImage: "https://i.scdn.co/image/ab6775700000ee85acb698b71d39bd92785f3a7e",
+         product: "premium",
+         ~~~~~~~
+         accessToken: "BQCVuJIYO-6wWbLRzd7U9M196znA1yMwksV6e5U7gaxEty7sH_QxUID3YjVDOEvLduRJPQdkUjFnXnqXnNDiWmAy27W2jNzsPIN44RCkTGkPR13eP6lhsKrKGouqDMT4tVpSRYl7-Z60QCHy3uZ1ZlS-w7dUOiEzjyXGcuI_ttgoWubnfPpAOU07QAPMUTXuKLKvFi8Y78sxIr54YI1k0HS3uYbPhOUFSAcJ3izw9Bzeea-qGcEx1vqgGVoGGiLpAXQNGRS2mKAK7UaPxFQajU8Ufa4GVfDRSQHbrSh0D1k5Imq5aFe2OB-d7LZ8dJ8iv0T6jKqcj7k",
+         refreshToken: "AQDlXHlChfu9IAdWqqkHx14SWULlpOOqvi-KqnbsoHq6bIWRkVZVvm1BFSpFkwQLNseyVZrPbN9Fg4kJUaYlLzgbkCz-bms5ZDEt-0PRbDUT1M4lOp_XplEGBCZBnEbg3vI",
+         tokenExpiresAt: new Date("2026-06-04T20:46:48.460Z"),
+     ?   role?: String,
+     ?   isFinished?: Boolean,
+     ?   lobby?: LobbyCreateNestedOneWithoutUsersInput,
+     ?   swipes?: SwipeCreateNestedManyWithoutUserInput
+       }
+     })
+
+Unknown argument `product`. Available options are marked with ?.
+[ERROR] 2026-06-04T19:46:58.513Z - Error during Spotify OAuth callback processing: 
+Invalid `prisma.user.upsert()` invocation in
+C:\musicmap\server\src\routes\auth.js:43:36
+
+  40 
+  41 // 3. Upsert user in SQLite database
+  42 const tokenExpiresAt = new Date(Date.now() + expires_in * 1000);
+→ 43 const user = await prisma.user.upsert({
+       where: {
+         id: "317mib6nkj5mj4vkxwvpyu7i4vzq"
+       },
+       update: {
+         displayName: "philazy",
+         profileImage: "https://i.scdn.co/image/ab6775700000ee85acb698b71d39bd92785f3a7e",
+         product: "premium",
+         accessToken: "BQDYdm9umKO90dBJlxF8M4Kh-tkOCYKTQnrEWv0lZkVdlmBQGiBWnGiXe2TwSMnE-uTZcuRSbSIPETxd6MpWXJZZ7l0w_0MYlxtjgvfkUUgTKlKGIKdtKT0sEsWAYk7M0fKBUulD9E3GeRxn-wyVXAbjGh7yWutLw76aLfce_0clCkb2w_oL2ThLZDQF7p1DtdcN_DGP38T4LWJ6PVqvBZuneQBCRdg1E0ky28QAUPEy82A_YOskbu2Jgu2MJZDhRCowf4qeBJJtk-ICN_Lz2eKBkXzjSU7Kk_O5X0LemyXHf7U0yCGi5GegSxCSvRdxtl2kfEAj6Uo",
+         refreshToken: "AQCmKNh8OhssgCYtPM9aiMwj9-hijXIB-hpGvZRb2We4QRKCXvE4kO2EIPb46u3mQzhBHe5i9WI8_vWmkUYmLirIS59COJ2E9vZsIS8o3oQiH5zL4W7O5hF5o-XPah_seAE",
+         tokenExpiresAt: new Date("2026-06-04T20:46:58.506Z")
+       },
+       create: {
+         id: "317mib6nkj5mj4vkxwvpyu7i4vzq",
+         displayName: "philazy",
+         profileImage: "https://i.scdn.co/image/ab6775700000ee85acb698b71d39bd92785f3a7e",
+         product: "premium",
+         ~~~~~~~
+         accessToken: "BQDYdm9umKO90dBJlxF8M4Kh-tkOCYKTQnrEWv0lZkVdlmBQGiBWnGiXe2TwSMnE-uTZcuRSbSIPETxd6MpWXJZZ7l0w_0MYlxtjgvfkUUgTKlKGIKdtKT0sEsWAYk7M0fKBUulD9E3GeRxn-wyVXAbjGh7yWutLw76aLfce_0clCkb2w_oL2ThLZDQF7p1DtdcN_DGP38T4LWJ6PVqvBZuneQBCRdg1E0ky28QAUPEy82A_YOskbu2Jgu2MJZDhRCowf4qeBJJtk-ICN_Lz2eKBkXzjSU7Kk_O5X0LemyXHf7U0yCGi5GegSxCSvRdxtl2kfEAj6Uo",
+         refreshToken: "AQCmKNh8OhssgCYtPM9aiMwj9-hijXIB-hpGvZRb2We4QRKCXvE4kO2EIPb46u3mQzhBHe5i9WI8_vWmkUYmLirIS59COJ2E9vZsIS8o3oQiH5zL4W7O5hF5o-XPah_seAE",
+         tokenExpiresAt: new Date("2026-06-04T20:46:58.506Z"),
+     ?   role?: String,
+     ?   isFinished?: Boolean,
+     ?   lobby?: LobbyCreateNestedOneWithoutUsersInput,
+     ?   swipes?: SwipeCreateNestedManyWithoutUserInput
+       }
+     })
+
+Unknown argument `product`. Available options are marked with ?.
+[LOG] 2026-06-04T19:48:21.318Z - =============================================
+[LOG] 2026-06-04T19:48:21.320Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T19:48:21.320Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T19:48:21.320Z - =============================================
+[LOG] 2026-06-04T20:30:12.564Z - =============================================
+[LOG] 2026-06-04T20:30:12.567Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T20:30:12.567Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T20:30:12.567Z - =============================================
+[LOG] 2026-06-04T20:42:41.741Z - =============================================
+[LOG] 2026-06-04T20:42:41.743Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T20:42:41.743Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T20:42:41.743Z - =============================================
+[LOG] 2026-06-04T20:42:59.864Z - Socket connected: BJ0HeOeNRGp_d7tzAAAD
+[LOG] 2026-06-04T20:43:02.828Z - Lobby 2XDPWF (PREMIUM) created by host philazy (317mib6nkj5mj4vkxwvpyu7i4vzq)
+[LOG] 2026-06-04T20:43:05.545Z - Starting round for lobby 2XDPWF (PREMIUM)...
+[LOG] 2026-06-04T20:43:06.216Z - Round started in room 2XDPWF with 20 tracks.
+[LOG] 2026-06-04T20:43:14.151Z - User 317mib6nkj5mj4vkxwvpyu7i4vzq disconnecting from lobby 2XDPWF
+[LOG] 2026-06-04T20:43:14.155Z - Socket disconnected from server: BJ0HeOeNRGp_d7tzAAAD
+[LOG] 2026-06-04T20:43:14.181Z - Lobby 2XDPWF has 0 users remaining. Deleting lobby.
+[LOG] 2026-06-04T20:43:14.345Z - Socket connected: Air-8nED4lTAI3ISAAAG
+[LOG] 2026-06-04T20:43:16.868Z - Lobby PXMLQU (PREMIUM) created by host philazy (317mib6nkj5mj4vkxwvpyu7i4vzq)
+[LOG] 2026-06-04T20:43:18.470Z - Starting round for lobby PXMLQU (PREMIUM)...
+[LOG] 2026-06-04T20:43:19.099Z - Round started in room PXMLQU with 20 tracks.
+[LOG] 2026-06-04T20:43:31.537Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: PXMLQU, Track: 7340d5cd-255b-48d0-bb47-59bd039bb394, Swipe recorded. Total Swipes: 1/20, isFinished: false
+[LOG] 2026-06-04T20:43:54.741Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: PXMLQU, Track: dc6df2ed-c31e-4818-82ba-67e640086e0f, Swipe recorded. Total Swipes: 2/20, isFinished: false
+[LOG] 2026-06-04T20:44:01.534Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: PXMLQU, Track: 7406fc5a-7dd6-4de3-8df9-17a2fdb242b0, Swipe recorded. Total Swipes: 3/20, isFinished: false
+[LOG] 2026-06-04T20:44:21.570Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: PXMLQU, Track: 610c2873-778f-4bde-ba4b-2adfa8e50fb5, Swipe recorded. Total Swipes: 4/20, isFinished: false
+[LOG] 2026-06-04T20:44:25.984Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: PXMLQU, Track: a95cec3a-49ae-44d1-b034-e0a527872c38, Swipe recorded. Total Swipes: 5/20, isFinished: false
+[LOG] 2026-06-04T20:44:32.917Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: PXMLQU, Track: b4c3a096-2315-4cc9-b410-dfcb01c42339, Swipe recorded. Total Swipes: 6/20, isFinished: false
+[LOG] 2026-06-04T20:44:41.591Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: PXMLQU, Track: b88e5dd0-3bd4-4126-8637-46e14c5b8143, Swipe recorded. Total Swipes: 7/20, isFinished: false
+[LOG] 2026-06-04T20:44:49.027Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: PXMLQU, Track: 46737945-5b49-48af-b09e-cfe5e1f672d2, Swipe recorded. Total Swipes: 8/20, isFinished: false
+[LOG] 2026-06-04T20:44:55.376Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: PXMLQU, Track: d586ad37-5138-432f-8606-f4541dd43dcd, Swipe recorded. Total Swipes: 9/20, isFinished: false
+[LOG] 2026-06-04T20:47:25.628Z - User 317mib6nkj5mj4vkxwvpyu7i4vzq disconnecting from lobby PXMLQU
+[LOG] 2026-06-04T20:47:25.628Z - Socket disconnected from server: Air-8nED4lTAI3ISAAAG
+[LOG] 2026-06-04T20:47:25.648Z - Lobby PXMLQU has 0 users remaining. Deleting lobby.
+[LOG] 2026-06-04T20:47:26.248Z - Socket connected: 8kjKcvBdwSa0DZ29AAAJ
+[LOG] 2026-06-04T20:47:32.543Z - =============================================
+[LOG] 2026-06-04T20:47:32.546Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T20:47:32.546Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T20:47:32.546Z - =============================================
+[LOG] 2026-06-04T20:47:33.944Z - =============================================
+[LOG] 2026-06-04T20:47:33.946Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T20:47:33.946Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T20:47:33.946Z - =============================================
+[LOG] 2026-06-04T20:47:34.195Z - Socket connected: 40c9lXyklaPFXs7SAAAB
+[LOG] 2026-06-04T20:47:42.788Z - =============================================
+[LOG] 2026-06-04T20:47:42.791Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T20:47:42.791Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T20:47:42.791Z - =============================================
+[LOG] 2026-06-04T20:47:43.353Z - Socket connected: RXnDW_8AUIqsatwfAAAB
+[LOG] 2026-06-04T20:47:46.382Z - Socket disconnected from server: RXnDW_8AUIqsatwfAAAB
+[LOG] 2026-06-04T20:47:46.768Z - Socket connected: 4foG4d99PsZVO0EvAAAE
+[LOG] 2026-06-04T20:49:37.506Z - Socket disconnected from server: 4foG4d99PsZVO0EvAAAE
+[LOG] 2026-06-04T20:49:37.818Z - Socket connected: rlVwPQd8wwN0pGETAAAH
+[LOG] 2026-06-04T20:49:39.042Z - Socket disconnected from server: rlVwPQd8wwN0pGETAAAH
+[LOG] 2026-06-04T20:49:45.538Z - Socket connected: u9OTsfWpawvZMfPlAAAL
+[LOG] 2026-06-04T20:49:47.974Z - Lobby RQ4QFC (PREMIUM) created by host philazy (317mib6nkj5mj4vkxwvpyu7i4vzq)
+[LOG] 2026-06-04T20:49:49.217Z - Starting round for lobby RQ4QFC (PREMIUM)...
+[LOG] 2026-06-04T20:49:50.244Z - Round started in room RQ4QFC with 20 tracks.
+[LOG] 2026-06-04T20:50:00.420Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: RQ4QFC, Track: 1e8805fe-0e78-47c1-8a2a-44c92e5c6d1e, Swipe recorded. Total Swipes: 1/20, isFinished: false
+[LOG] 2026-06-04T20:50:05.789Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: RQ4QFC, Track: 1e74d538-4619-442a-a85d-57f436b7462a, Swipe recorded. Total Swipes: 2/20, isFinished: false
+[LOG] 2026-06-04T20:50:08.800Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: RQ4QFC, Track: d4ba4370-42f0-49ba-854e-778ef2709fbf, Swipe recorded. Total Swipes: 3/20, isFinished: false
+[LOG] 2026-06-04T20:50:13.644Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: RQ4QFC, Track: c06f948f-742d-47b8-ac9a-e016dc32b86d, Swipe recorded. Total Swipes: 4/20, isFinished: false
+[LOG] 2026-06-04T20:50:20.835Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: RQ4QFC, Track: e4e735e4-9f88-4319-ab48-0dc9aae618bc, Swipe recorded. Total Swipes: 5/20, isFinished: false
+[LOG] 2026-06-04T20:50:29.368Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: RQ4QFC, Track: dffd3855-d8a1-4a80-b743-5b07a054f10d, Swipe recorded. Total Swipes: 6/20, isFinished: false
+[LOG] 2026-06-04T20:50:36.125Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: RQ4QFC, Track: acab1358-42a0-41ed-b616-130929de4fd9, Swipe recorded. Total Swipes: 7/20, isFinished: false
+[LOG] 2026-06-04T20:50:37.711Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: RQ4QFC, Track: ebc089cb-4a96-4e76-b713-277041ff53d5, Swipe recorded. Total Swipes: 8/20, isFinished: false
+[LOG] 2026-06-04T20:50:40.770Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: RQ4QFC, Track: 211c6f4d-5622-40c0-adbb-21ddc591e41e, Swipe recorded. Total Swipes: 9/20, isFinished: false
+[LOG] 2026-06-04T20:50:43.753Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: RQ4QFC, Track: b3041be5-c5ad-4d28-a581-3bc53f820172, Swipe recorded. Total Swipes: 10/20, isFinished: false
+[LOG] 2026-06-04T20:50:46.936Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: RQ4QFC, Track: deb0cf2b-2e08-443b-83c1-fcf0aa13c095, Swipe recorded. Total Swipes: 11/20, isFinished: false
+[LOG] 2026-06-04T20:50:49.614Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: RQ4QFC, Track: b7084d5d-e186-4998-89f3-20f196100f33, Swipe recorded. Total Swipes: 12/20, isFinished: false
+[LOG] 2026-06-04T20:50:51.917Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: RQ4QFC, Track: 2bb4488b-f5dc-4c1e-880e-67ad160bd4f0, Swipe recorded. Total Swipes: 13/20, isFinished: false
+[LOG] 2026-06-04T20:50:53.546Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: RQ4QFC, Track: f732d214-2e50-4fc3-a46b-07a1abef31a1, Swipe recorded. Total Swipes: 14/20, isFinished: false
+[LOG] 2026-06-04T20:50:56.804Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: RQ4QFC, Track: f0da9878-c053-4134-98eb-1826337afd61, Swipe recorded. Total Swipes: 15/20, isFinished: false
+[LOG] 2026-06-04T20:50:59.028Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: RQ4QFC, Track: 50f944e6-a275-45ac-b918-91275d218a09, Swipe recorded. Total Swipes: 16/20, isFinished: false
+[LOG] 2026-06-04T20:51:00.923Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: RQ4QFC, Track: 3e6b0c4b-549e-4d6f-92df-ba25caca6833, Swipe recorded. Total Swipes: 17/20, isFinished: false
+[LOG] 2026-06-04T20:51:03.109Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: RQ4QFC, Track: 71687be4-741c-4411-a214-2e23bc593fbe, Swipe recorded. Total Swipes: 18/20, isFinished: false
+[LOG] 2026-06-04T20:51:04.673Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: RQ4QFC, Track: 92ba7188-18c2-4ccb-93f2-fd5bb93be920, Swipe recorded. Total Swipes: 19/20, isFinished: false
+[LOG] 2026-06-04T20:51:09.144Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: RQ4QFC, Track: 2121e4ce-b8dc-4ee2-ad68-9978f4300058, Swipe recorded. Total Swipes: 20/20, isFinished: true
+[LOG] 2026-06-04T20:51:09.144Z - [SWIPE DEBUG] User 317mib6nkj5mj4vkxwvpyu7i4vzq has finished swiping. Updating DB...
+[LOG] 2026-06-04T20:51:09.167Z - All players finished swiping in lobby RQ4QFC. Computing results...
+[ERROR] 2026-06-04T20:51:11.947Z - Failed to create Spotify playlist: {"error":{"status":403,"message":"Forbidden"}}
+[LOG] 2026-06-04T20:51:20.016Z - Lobby RQ4QFC reset for another round.
+[LOG] 2026-06-04T20:51:21.533Z - Starting round for lobby RQ4QFC (PREMIUM)...
+[LOG] 2026-06-04T20:51:22.803Z - Round started in room RQ4QFC with 20 tracks.
+[LOG] 2026-06-04T20:52:33.814Z - User 317mib6nkj5mj4vkxwvpyu7i4vzq disconnecting from lobby RQ4QFC
+[LOG] 2026-06-04T20:52:33.815Z - Socket disconnected from server: u9OTsfWpawvZMfPlAAAL
+[LOG] 2026-06-04T20:52:33.839Z - Lobby RQ4QFC has 0 users remaining. Deleting lobby.
+[LOG] 2026-06-04T20:52:34.199Z - Socket connected: Ejy5OMvpx5cabeqsAAAN
+[LOG] 2026-06-04T20:52:36.360Z - Lobby H0PY88 (FREE) created by host philazy (317mib6nkj5mj4vkxwvpyu7i4vzq)
+[LOG] 2026-06-04T20:52:38.060Z - Starting round for lobby H0PY88 (FREE)...
+[LOG] 2026-06-04T20:52:38.848Z - Round started in room H0PY88 with 20 tracks.
+[LOG] 2026-06-04T20:52:41.617Z - [SWIPE DEBUG] User: 317mib6nkj5mj4vkxwvpyu7i4vzq, Lobby: H0PY88, Track: 69490c7a-5c40-4505-bac8-1ddc19e8cb22, Swipe recorded. Total Swipes: 1/20, isFinished: false
+[LOG] 2026-06-04T20:55:46.709Z - =============================================
+[LOG] 2026-06-04T20:55:46.712Z - 🎵 MusicMap backend running on port 3001
+[LOG] 2026-06-04T20:55:46.712Z - 🌐 Allowing frontend CORS from: http://localhost:5173
+[LOG] 2026-06-04T20:55:46.713Z - =============================================
+[LOG] 2026-06-04T20:55:47.592Z - Socket connected: 06hcLALVFt_C-4XrAAAB
